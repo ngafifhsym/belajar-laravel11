@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Halaman Blog</h1>
-    <a href="/home">Home</a>
+    <a href="/">Home</a>
     <a href="/about">About</a>
     <a href="/contact">Contact</a>
     <a href="/blog">Blog</a>

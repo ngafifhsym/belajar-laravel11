@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <a href="/home">Home</a>
+    <a href="/">Home</a>
     <a href="/about">About</a>
     <a href="/contact">Contact</a>
     <a href="/blog">Blog</a>
